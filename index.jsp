@@ -35,12 +35,7 @@ border-radius: 0px;
 body {
     font-family: "Lato", sans-serif;
 }
-
-.carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }  .panel-footer{
+  .panel-footer{
 
 	color:blue;
 	font-weight: bold;
